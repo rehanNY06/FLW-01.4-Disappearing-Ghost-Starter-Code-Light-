@@ -1,0 +1,41 @@
+img {
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.main {
+    text-align: center;
+
+}
+
+.button {
+    padding: 25px;
+    border-radius: 10px;
+}
+
+button {
+    margin: 5px;
+}
+
+.hide-button {
+    background-color: #fee975;
+}
+
+.show-button {
+    background-color: #ffaa7b;
+}
+
+.message-button {
+    background-color: #00ffcc;
+}
+
+.update-img-button {
+    background-color: #e4afee;
+}
+
+.name-button {
+    background-color: #17d3ff;
+}
